@@ -1,0 +1,19 @@
+﻿@model EmployeeManagement.Models.Department
+
+<tr>
+    <td>@Html.LabelFor(model => model.Name)</td>
+    <td>@Html.TextBoxFor(model => model.Name)</td>
+</tr>
+<tr>
+    <td></td>
+    <td>@Html.ValidationMessageFor(model => model.Name, "")</td>
+</tr>
+
+<tr>
+    <td>@Html.LabelFor(model => model.Description)</td>
+    <td>@Html.TextAreaFor(model => model.Description)</td>
+</tr>
+<tr>
+    <td></td>
+    <td>@Html.ValidationMessageFor(model => model.Description, "")</td>
+</tr>

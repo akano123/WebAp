@@ -1,0 +1,25 @@
+﻿@model EmployeeManagement.Models.Department
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <table>
+        @*@Html.Partial("_Partial_CreateDepartment", Model)  Recommend for Ajax     *@ 
+        @{Html.RenderPartial("_Partial_CreateDepartment", Model);}
+        <tr>
+            <td colspan="2">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </td>
+        </tr>
+    </table>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

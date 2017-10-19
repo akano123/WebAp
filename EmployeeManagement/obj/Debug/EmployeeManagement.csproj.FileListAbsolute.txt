@@ -1,0 +1,172 @@
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\ApplicationInsights.config
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\roslyn\csc.exe
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\roslyn\vbc.exe
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.dll.config
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.pdb
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\EntityFramework.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.Web.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\System.Web.Helpers.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\System.Web.Mvc.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\System.Web.Razor.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\System.Web.Webpages.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\System.Web.Webpages.Razor.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\EntityFramework.xml
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.Web.xml
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\System.Web.Razor.xml
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\System.Web.Webpages.xml
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\System.Web.Webpages.Razor.xml
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\System.Web.Helpers.xml
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\System.Web.Mvc.xml
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csprojResolveAssemblyReference.cache
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Migrations.ewufeyfdafsdfs.resources
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.GenerateResource.Cache
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\PagedList.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\PagedList.Mvc.dll
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\PagedList.xml
+C:\Users\ManhNH25\Desktop\EmployeeManagement\EmployeeManagement\bin\PagedList.Mvc.xml
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\ApplicationInsights.config
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\csc.exe
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\vbc.exe
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\VBCSCompiler.exe
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.dll.config
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.pdb
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EntityFramework.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EntityFramework.SqlServer.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.Web.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.ApplicationInsights.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\PagedList.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\PagedList.Mvc.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Helpers.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Mvc.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Razor.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Webpages.Deployment.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Webpages.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Webpages.Razor.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EntityFramework.xml
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EntityFramework.SqlServer.xml
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.Web.xml
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.ApplicationInsights.xml
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\PagedList.xml
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\PagedList.Mvc.xml
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Razor.xml
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Webpages.xml
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Webpages.Deployment.xml
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Webpages.Razor.xml
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Helpers.xml
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Mvc.xml
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csprojResolveAssemblyReference.cache
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.dll
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Migrations.abcv3.resources
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.GenerateResource.Cache
+D:\DATA LAPTOP\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Migrations.abcV4.resources
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\ApplicationInsights.config
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\csc.exe
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\vbc.exe
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\VBCSCompiler.exe
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.dll.config
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.pdb
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EntityFramework.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EntityFramework.SqlServer.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.Web.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.ApplicationInsights.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\PagedList.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\PagedList.Mvc.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Helpers.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Mvc.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Razor.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Webpages.Deployment.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Webpages.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Webpages.Razor.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EntityFramework.xml
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\EntityFramework.SqlServer.xml
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.Web.xml
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.ApplicationInsights.xml
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\PagedList.xml
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\PagedList.Mvc.xml
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Razor.xml
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Webpages.xml
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Webpages.Deployment.xml
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Webpages.Razor.xml
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Helpers.xml
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\System.Web.Mvc.xml
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csprojResolveAssemblyReference.cache
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Migrations.abcv3.resources
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Migrations.abcV4.resources
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.GenerateResource.Cache
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.dll
+D:\HOC\C#\Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb

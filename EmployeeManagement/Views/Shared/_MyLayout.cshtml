@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+        @RenderSection("StyleScript", false)
+    <link href="~/Content/vendor/jquery-ui-1.12.1/jquery-ui.min.css" rel="stylesheet" />
+    <link href="~/Content/custom/css/validation.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="container">
+        <p>This is My Layout</p>
+        <div>
+            @RenderBody()
+        </div>
+    </div>
+    <script src="~/Content/vendor/jquery-1.12.4/jquery-1.12.4.min.js"></script>
+    <script src="~/Content/vendor/jquery-ui-1.12.1/jquery-ui.min.js"></script>
+    <script src="~/Content/vendor/jquery-validation-1.17.0/dist/jquery.validate.min.js"></script>
+    <script src="~/Content/vendor/jquery-validation-unobtrusive-master/dist/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/Content/custom/js/common.js"></script>
+    <script src="~/Content/custom/js/mylib.js"></script>
+    @RenderSection("JsScript",false)
+
+    <noscript>
+        <h1>Please enable Javascript</h1>
+        <style>
+            #container{
+                display:none;
+            }
+        </style>
+    </noscript>
+</body>
+</html>

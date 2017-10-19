@@ -1,0 +1,15 @@
+﻿
+@{
+    Layout = null;
+}
+<h2>Testing2</h2>
+
+@foreach (var item in ViewBag.Jobs)
+{
+    <p style="color:red">@item</p>
+}
+
+@foreach (var item in (List<String>)ViewData["Jobs"])
+{
+    <p style="color:green">@item</p>
+}

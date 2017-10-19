@@ -1,0 +1,138 @@
+﻿@using PagedList
+@using PagedList.Mvc
+
+@model IPagedList<EmployeeManagement.Models.Employee>
+
+@section StyleScript{
+    <style>
+        .paging li {
+            list-style-type: none;
+            display: inline-block;
+            margin-left: 5px;
+            margin-right: 5px;
+        }
+    </style>
+}
+@section JsScript{
+    <script type="text/javascript">
+        //alert('abc');
+    </script>
+    }
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@Html.PagedListPager(Model, page => Url.Action("Index2", "Employees", new { pageNumber = page, searchValue = Request.QueryString["searchValue"] }),
+    new PagedListRenderOptions() {
+        DisplayLinkToFirstPage = PagedListDisplayMode.Always,
+        DisplayLinkToLastPage = PagedListDisplayMode.Always,
+        DisplayPageCountAndCurrentLocation = true,
+        LinkToFirstPageFormat = "First",
+        LinkToNextPageFormat = "Next",
+        LinkToPreviousPageFormat = "Previous",
+        LinkToLastPageFormat = "Last",
+        UlElementClasses = new List<string>() { "paging" }
+    })
+
+@*<form action="/Employees/Index2" method="get">
+        <input type="text" name="searchValue" value="@Request.QueryString["searchValue"]"/>
+        <input type="submit" value="search"/>
+    </form>*@
+
+<p>Current Employees: @ViewBag.CurrentEmployees</p>
+<p>Current Employees: @ViewData["CurrentEmployees"]</p>
+@using (Html.BeginForm("Index2", "Employees", FormMethod.Get))
+{
+    @Html.TextBox("searchValue", string.Empty, new { id = "txtSearchValue" })
+    @Html.Hidden("sortField")
+    <input type="submit" value="Search" />
+}
+<br />
+
+<table class="table" border="1">
+    <tr>
+        <th>
+            @Html.ActionLink(Html.DisplayNameFor(model => model.First().DisplayFullName).ToString(),
+           "Index2", "Employees", new
+           {
+               sortField = ViewBag.SortByName
+           ,
+               searchValue = Request.QueryString["searchValue"]
+           }, null)
+        </th>
+        <th>
+            @Html.ActionLink(Html.DisplayNameFor(model => model.First().Gender).ToString(),
+           "Index2", "Employees", new { sortField = ViewBag.SortByGender, searchValue = Request.QueryString["searchValue"] }, null)
+        </th>
+        <th>
+            @Html.ActionLink(Html.DisplayNameFor(model => model.First().DateOfBirth).ToString(),
+           "Index2", "Employees", new { sortField = ViewBag.SortByBirthdate, searchValue = Request.QueryString["searchValue"] }, null)
+
+        </th>
+        <th>
+            @Html.ActionLink(Html.DisplayNameFor(model => model.First().DisplayMarriedStatus).ToString(),
+           "Index2", "Employees", new { sortField = ViewBag.SortByMarriedStatus, searchValue = Request.QueryString["searchValue"] }, null)
+
+        </th>
+        <th>
+            @Html.ActionLink(Html.DisplayNameFor(model => model.First().Email).ToString(),
+           "Index2", "Employees", new { sortField = ViewBag.SortByEmail, searchValue = Request.QueryString["searchValue"] }, null)
+
+        </th>
+        <th>
+            @Html.ActionLink(@Html.DisplayNameFor(model => model.First().Salary).ToString(),
+           "Index2", "Employees", new { sortField = ViewBag.SortBySalary, searchValue = Request.QueryString["searchValue"] }, null)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().DisplaySkills)
+        </th>
+        <th>
+            @Html.ActionLink(Html.DisplayNameFor(model => model.First().DepartmentId).ToString(),
+           "Index2", "Employees", new { sortField = ViewBag.SortByDepartment, searchValue = Request.QueryString["searchValue"] }, null)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DisplayFullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfBirth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DisplayMarriedStatus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Salary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DisplaySkills)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Department.Name)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.EmployeeId }, null)
+                @*@Html.ActionLink("Edit", "Edit", new { id = item.EmployeeId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.EmployeeId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.EmployeeId })*@
+            </td>
+        </tr>
+    }
+
+</table>
+@*<a href="/Employees/Index2?pageNumber=1">1</a>
+    <a href="@Url.Action("Index2", "Employees", new {  pageNumber  = 2 })">2</a>
+    @Html.ActionLink("3", "Index2", "Employees", new { pageNumber = 3 }, new { @class = "abc", data_test = "test" })*@
+
+

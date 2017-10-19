@@ -1,0 +1,113 @@
+﻿@model EmployeeManagement.Models.Employee
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+@using (Html.BeginForm("Create1", "Employees", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(false);
+    <table>
+        <tr>
+            <td>@Html.LabelFor(model => model.IdCard)</td>
+            <td>@Html.TextBoxFor(model => model.IdCard)</td>
+            <td>@Html.ValidationMessageFor(model => model.IdCard, "")</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(model => model.FirstName)</td>
+            <td>@Html.TextBoxFor(model => model.FirstName)</td>
+            <td>@Html.ValidationMessageFor(model => model.FirstName, "")</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(model => model.LastName)</td>
+            <td>@Html.TextBoxFor(model => model.LastName)</td>
+            <td>@Html.ValidationMessageFor(model => model.LastName, "")</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(model => model.Gender)</td>
+            <td>
+                @{
+                    bool isChecked = true;
+                    foreach (var item in (int[])Enum.GetValues(typeof(Gender)))
+                    {
+                        @Html.RadioButtonFor(model => model.Gender, item, isChecked ? new { @checked = "checked" } : null) @((Gender)item)
+                        isChecked = false;
+                    }
+                }
+            </td>
+            <td>@Html.ValidationMessageFor(model => model.Gender, "")</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(model => model.DateOfBirth)</td>
+            <td>@Html.TextBoxFor(model => model.DateOfBirth, new { @readonly = "readonly" })</td>
+            <td>@Html.ValidationMessageFor(model => model.DateOfBirth, "")</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(model => model.IsMarried)</td>
+            <td>@Html.CheckBoxFor(model => model.IsMarried)</td>
+            <td>@Html.ValidationMessageFor(model => model.IsMarried, "")</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(model => model.Email)</td>
+            <td>@Html.TextBoxFor(model => model.Email)</td>
+            <td>@Html.ValidationMessageFor(model => model.Email, "")</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(model => model.PhoneNumber)</td>
+            <td>@Html.TextBoxFor(model => model.PhoneNumber)</td>
+            <td>@Html.ValidationMessageFor(model => model.PhoneNumber, "")</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(model => model.Address)</td>
+            <td>@Html.TextAreaFor(model => model.Address)</td>
+            <td>@Html.ValidationMessageFor(model => model.Address, "")</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(model => model.Salary)</td>
+            <td>@Html.TextBoxFor(model => model.Salary)</td>
+            <td>@Html.ValidationMessageFor(model => model.Salary, "")</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(model => model.EditSkills)</td>
+            <td>@Html.ListBoxFor(model => model.EditSkills, (List<SelectListItem>)ViewBag.Skills)</td>
+            <td>@Html.ValidationMessageFor(model => model.EditSkills, "")</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(model => model.DepartmentId)</td>
+            <td>@Html.DropDownListFor(model => model.DepartmentId, (List<SelectListItem>)ViewBag.Departments, "Select Department")</td>
+            @*<td>@Html.DropDownListFor(model => model.DepartmentId, (List<SelectListItem>)ViewBag.Departments, "Select Department", new { multiple = "multiple" })</td>*@
+            <td>@Html.ValidationMessageFor(model => model.DepartmentId, "")</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(model => model.ExpiryDate)</td>
+            <td>@Html.TextBoxFor(model => model.ExpiryDate, new { @readonly = "readonly"})</td>
+            <td>@Html.ValidationMessageFor(model => model.ExpiryDate, "")</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(model => model.ConfirmExpiryDate)</td>
+            <td>@Html.TextBoxFor(model => model.ConfirmExpiryDate, new { @readonly = "readonly" })</td>
+            <td>@Html.ValidationMessageFor(model => model.ConfirmExpiryDate, "")</td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <input type="submit" value="submit" />
+            </td>
+        </tr>
+    </table>
+                    }
+
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section JsScript{
+    <script type="text/javascript">
+        $("#DateOfBirth").datepicker({ dateFormat: "mm/dd/yy", changeYear: true, yearRange: "-100:+0" });
+        $("#ExpiryDate").datepicker({ dateFormat: "mm/dd/yy", changeYear: true, yearRange: "-100:+0"});
+        $("#ConfirmExpiryDate").datepicker({ dateFormat: "mm/dd/yy", changeYear: true, yearRange: "-100:+0" });
+
+    </script>
+}
